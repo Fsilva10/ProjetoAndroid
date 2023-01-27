@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "172892537413",
+    "project_id": "rede-social-anonima-4c41b",
+    "storage_bucket": "rede-social-anonima-4c41b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172892537413:android:34e15ee71e871ad484d92c",
+        "android_client_info": {
+          "package_name": "com.example.redesocialanonima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172892537413-ngb533em33rt7p3pg6205m2sdkbvtvcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDzhOOf8gdMZXUUxaRE_9RWEjQ-X7Xvus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172892537413-ngb533em33rt7p3pg6205m2sdkbvtvcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
