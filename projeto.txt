@@ -1,0 +1,2 @@
+Professor o projeto não esta 100% finalizado falta-me por uma key para meter uma sha-1 fingerprint na firebase para que o realtime database fique a funcionar corretamente assim como os dados das tabelas.
+O problema foi que até então tenho estado a utilizar o jdk do android e não consigo obter a fingerprint da mesma. 
